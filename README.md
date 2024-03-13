@@ -4,7 +4,7 @@
 
 <hr>
 
-**A Typescript remake is now available** [here](https://github.com/Joschy1976/Classic-8-Ball-Pool).  
+**A Typescript remake is now available** [here]([https://github.com/Joschy1976/Classic-Pool-Game]).  
 **Same functionality with better and more readable code.**
 
 <hr>
@@ -24,9 +24,6 @@ Have fun, and good luck!
 <h3>Mouse:</h3>
 * Left click : shoot.<br>
 * Aim by moving the mouse.<br>
-
-<h3>Demo:</h3>
-https://Joschy1976.github.io/Classic-Pool-Game/
 
 <h3>Screenshots:</h3>
 <img src="https://image.ibb.co/b9HT6x/screenshots.jpg" style="width: 10px;"></img>
