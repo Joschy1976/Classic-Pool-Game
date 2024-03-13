@@ -4,7 +4,7 @@
 
 <hr>
 
-**A Typescript remake is now available** [here]([https://github.com/Joschy1976/Classic-Pool-Game]).  
+**A Typescript remake is now available** https://github.com/Joschy1976/Classic-Pool-Game  
 **Same functionality with better and more readable code.**
 
 <hr>
